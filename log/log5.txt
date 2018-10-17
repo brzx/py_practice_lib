@@ -1,0 +1,8 @@
+2018-03-22 14:39:43,584 - __main__ - INFO - Start print log
+2018-03-22 14:39:43,584 - __main__ - WARNING - Something maybe fail.
+2018-03-22 14:39:43,584 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "C:\Users\brian.xiaodong.zhu\Downloads\bb\py\log\logTest5.py", line 24, in <module>
+    open("sklearn.txt","rb")
+IOError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-03-22 14:39:43,584 - __main__ - INFO - Finish

@@ -1,0 +1,9 @@
+2018-03-22 14:37:44,319 - __main__ - INFO - Start print log
+2018-03-22 14:37:44,319 - __main__ - WARNING - Something maybe fail.
+2018-03-22 14:37:44,335 - __main__ - INFO - Finish
+2018-03-22 14:37:57,224 - __main__ - INFO - Start print log
+2018-03-22 14:37:57,224 - __main__ - WARNING - Something maybe fail.
+2018-03-22 14:37:57,224 - __main__ - INFO - Finish
+2018-03-22 14:38:09,562 - __main__ - INFO - Start print log
+2018-03-22 14:38:09,562 - __main__ - WARNING - Something maybe fail.
+2018-03-22 14:38:09,562 - __main__ - INFO - Finish
