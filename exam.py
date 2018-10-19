@@ -72,7 +72,7 @@ if __name__ == '__main__':
     print jchb(li1, li2)
     li3 = ['a', 'B', 'C']
     li4 = [1, 2, 3, 4, 5]
-    pdb.set_trace()
+    #pdb.set_trace()
     print li3
     print li4
     print jchb(li3, li4)

@@ -30,4 +30,4 @@ if __name__ == '__main__':
     print(funfor(list))
     print(funwhile(list))
     print(funrecursion(list))
-    print(list)
+    print(reduce(lambda x,y:x+y, [5, 4, 3, 2, 1]))
